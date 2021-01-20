@@ -1,0 +1,9 @@
+name: SlapperUI
+main: DeadBush\SlapperUI\Main
+api: [3.0.0, 4.0.0]
+version: 1.0
+author: DeadBush
+
+commands:
+  slapperui:
+    description: "Opens UI For Slapper"
